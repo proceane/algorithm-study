@@ -10,6 +10,7 @@ o는 해결한 문제, x는 해결하지 못한 문제
 
 ### 수학
 - [최소공배수 o](https://github.com/proceane/algorithm-study/blob/master/Math/1934_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
+- [소수 o](https://github.com/proceane/algorithm-study/blob/master/Math/2581_%EC%86%8C%EC%88%98.md)
 
 ### 정렬  
 - [AC x](https://github.com/proceane/algorithm-study/blob/master/Sorting/5430_AC.md)  

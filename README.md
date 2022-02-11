@@ -4,6 +4,9 @@
 ## 리스트
 o는 해결한 문제, x는 해결하지 못한 문제  
 
+### 자료구조
+- [큐2 o](https://github.com/proceane/algorithm-study/blob/master/DataStructure/18258_%ED%81%902.md)
+
 ### 구현  
 - [빙고 x](https://github.com/proceane/algorithm-study/blob/master/Implementation/2578_%EB%B9%99%EA%B3%A0.md)
 - [윤년 o](https://github.com/proceane/algorithm-study/blob/master/Implementation/2753_%EC%9C%A4%EB%85%84.md)

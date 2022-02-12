@@ -5,6 +5,7 @@
 o는 해결한 문제, x는 해결하지 못한 문제  
 
 ### 자료구조
+- [요세푸스 문제 o](https://github.com/proceane/algorithm-study/blob/master/DataStructure/1158_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4_%EB%AC%B8%EC%A0%9C.md)  
 - [큐2 o](https://github.com/proceane/algorithm-study/blob/master/DataStructure/18258_%ED%81%902.md)
 
 ### 구현  

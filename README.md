@@ -6,6 +6,7 @@ o는 해결한 문제, x는 해결하지 못한 문제
 
 ### 자료구조
 - [요세푸스 문제 o](https://github.com/proceane/algorithm-study/blob/master/DataStructure/1158_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4_%EB%AC%B8%EC%A0%9C.md)  
+- [풍선 터뜨리기 o](https://github.com/proceane/algorithm-study/blob/master/DataStructure/2346_%ED%92%8D%EC%84%A0_%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0.md)  
 - [큐2 o](https://github.com/proceane/algorithm-study/blob/master/DataStructure/18258_%ED%81%902.md)
 
 ### 구현  
@@ -15,6 +16,8 @@ o는 해결한 문제, x는 해결하지 못한 문제
 ### 수학
 - [최소공배수 o](https://github.com/proceane/algorithm-study/blob/master/Math/1934_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
 - [소수 o](https://github.com/proceane/algorithm-study/blob/master/Math/2581_%EC%86%8C%EC%88%98.md)
+- [진법 변환 o](https://github.com/proceane/algorithm-study/blob/master/Math/2745_%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98.md)  
+- [세금 o](https://github.com/proceane/algorithm-study/blob/master/Math/20492_%EC%84%B8%EA%B8%88.md)  
 
 ### 정렬  
 - [AC x](https://github.com/proceane/algorithm-study/blob/master/Sorting/5430_AC.md)  

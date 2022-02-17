@@ -9,6 +9,9 @@ o는 해결한 문제, x는 해결하지 못한 문제
 - [풍선 터뜨리기 o](https://github.com/proceane/algorithm-study/blob/master/DataStructure/2346_%ED%92%8D%EC%84%A0_%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0.md)  
 - [큐2 o](https://github.com/proceane/algorithm-study/blob/master/DataStructure/18258_%ED%81%902.md)
 
+### DP  
+- [BABBA o(꼭 다시 풀어보기)](https://github.com/proceane/algorithm-study/blob/master/DP/9625_BABBA.md)
+
 ### 구현  
 - [빙고 x](https://github.com/proceane/algorithm-study/blob/master/Implementation/2578_%EB%B9%99%EA%B3%A0.md)
 - [윤년 o](https://github.com/proceane/algorithm-study/blob/master/Implementation/2753_%EC%9C%A4%EB%85%84.md)

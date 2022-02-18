@@ -58,3 +58,52 @@ public class BJ9625 {
 
 노가다로 풀면 안되는 문제인건 알고있지만 왠지 한번 그렇게 풀어보고싶은 날이었음  
 다음엔 DP로 풀어봐야지..
+
+```java
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class BJ9625_2 {
+
+    private static int[] aArr;
+    private static int[] bArr;
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int k = Integer.parseInt(br.readLine());
+        aArr = new int[k + 1];
+        bArr = new int[k + 1];
+
+        aArr[0] = 1;
+        bArr[0] = 0;
+        aArr[1] = 0;
+        bArr[1] = 1;
+
+        System.out.println(fibo(k, aArr) + " " + fibo(k, bArr));
+
+        br.close();
+    }
+
+    private static int fibo(int n, int[] arr) {
+        if (n == 0) {
+            return arr[0];
+        }
+
+        if (n == 1) {
+            return arr[1];
+        }
+
+        if (arr[n] != 0) {
+            return arr[n];
+        }
+
+        return arr[n] = fibo(n - 1, arr) + fibo(n - 2, arr);
+    }
+}
+
+```
+정답보고 코딩  
+피보나치 수 문제는 이렇게 풀면 될 것이라 생각  
+난이도에 따라 다르겠지만..

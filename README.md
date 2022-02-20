@@ -10,7 +10,9 @@ o는 해결한 문제, x는 해결하지 못한 문제
 - [큐2 o](https://github.com/proceane/algorithm-study/blob/master/DataStructure/18258_%ED%81%902.md)
 
 ### DP  
-- [BABBA o](https://github.com/proceane/algorithm-study/blob/master/DP/9625_BABBA.md)
+- [BABBA o](https://github.com/proceane/algorithm-study/blob/master/DP/9625_BABBA.md)  
+- [타일 장식물 o](https://github.com/proceane/algorithm-study/blob/master/DP/13301_%ED%83%80%EC%9D%BC_%EC%9E%A5%EC%8B%9D%EB%AC%BC.md)  
+- [이름 궁합 o](https://github.com/proceane/algorithm-study/blob/master/DP/15312_%EC%9D%B4%EB%A6%84_%EA%B6%81%ED%95%A9.md)  
 
 ### 구현  
 - [빙고 x](https://github.com/proceane/algorithm-study/blob/master/Implementation/2578_%EB%B9%99%EA%B3%A0.md)

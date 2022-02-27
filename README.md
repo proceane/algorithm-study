@@ -17,6 +17,7 @@ o는 해결한 문제, x는 해결하지 못한 문제
 - [핸드폰 번호 궁합 o](https://github.com/proceane/algorithm-study/blob/master/DP/17202_%ED%95%B8%EB%93%9C%ED%8F%B0_%EB%B2%88%ED%98%B8_%EA%B6%81%ED%95%A9.md)  
 
 ### 구현  
+- [24 o](https://github.com/proceane/algorithm-study/blob/master/Implementation/1408_24.md)  
 - [빙고 x](https://github.com/proceane/algorithm-study/blob/master/Implementation/2578_%EB%B9%99%EA%B3%A0.md)
 - [윤년 o](https://github.com/proceane/algorithm-study/blob/master/Implementation/2753_%EC%9C%A4%EB%85%84.md)
 

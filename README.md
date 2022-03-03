@@ -22,7 +22,8 @@ o는 해결한 문제, x는 해결하지 못한 문제
 - [윤년 o](https://github.com/proceane/algorithm-study/blob/master/Implementation/2753_%EC%9C%A4%EB%85%84.md)
 
 ### 수학
-- [최소공배수 o](https://github.com/proceane/algorithm-study/blob/master/Math/1934_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
+- [최소공배수 o](https://github.com/proceane/algorithm-study/blob/master/Math/1934_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)  
+- [소수 단어 o](https://github.com/proceane/algorithm-study/blob/master/Math/2153_%EC%86%8C%EC%88%98_%EB%8B%A8%EC%96%B4.md)  
 - [소수 o](https://github.com/proceane/algorithm-study/blob/master/Math/2581_%EC%86%8C%EC%88%98.md)
 - [진법 변환 o](https://github.com/proceane/algorithm-study/blob/master/Math/2745_%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98.md)  
 - [세금 o](https://github.com/proceane/algorithm-study/blob/master/Math/20492_%EC%84%B8%EA%B8%88.md)  
